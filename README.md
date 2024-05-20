@@ -14,9 +14,9 @@ I'm Arpit Jain, **Aspiring Data Scientist** eager to uncover hidden patterns in 
 ## Tech Stack 🛠
 **Programming Language**
 
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
-[![C](https://img.shields.io/badge/-C-blue?logo=cplusplus)
-[![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=cplusplus)
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 
 
 **Data Analysis**
@@ -27,7 +27,7 @@ I'm Arpit Jain, **Aspiring Data Scientist** eager to uncover hidden patterns in 
 
 **Database Management**
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Web Development**
